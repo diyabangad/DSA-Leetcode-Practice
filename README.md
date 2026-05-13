@@ -1,7 +1,7 @@
 # DSA Practice — Diya Bangad
 Following **Striver's A2Z DSA Sheet** · Target: 350+ problems before placements
 
-![Progress](https://img.shields.io/badge/Progress-1%20%2F%20350-orange?style=flat)
+![Progress](https://img.shields.io/badge/Progress-15%20%2F%20350-orange?style=flat)
 ![Sheet](https://img.shields.io/badge/Sheet-Striver's%20A2Z-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white)
 
@@ -11,7 +11,7 @@ Following **Striver's A2Z DSA Sheet** · Target: 350+ problems before placements
 
 | Topic | Solved | Total |
 |-------|--------|-------|
-| Arrays | 1 | 29 |
+| Arrays | 15 | 40 |
 | Binary Search | 0 | 11 |
 | Strings | 0 | 10 |
 | Linked Lists | 0 | 10 |
