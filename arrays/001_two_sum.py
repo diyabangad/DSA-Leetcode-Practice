@@ -1,6 +1,7 @@
-# 001. Two Sum
-# https://leetcode.com/problems/two-sum/
-# Difficulty: Easy | Topic: Arrays, Hashing
+#diyabangad
+#001
+#Two Sum 
+#Array - easy 
 
 def twoSum(self, nums, target):
   hashmap = {}
