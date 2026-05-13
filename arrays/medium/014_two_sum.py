@@ -1,7 +1,7 @@
 #diyabangad
-#001
+#Array - medium - 1
 #Two Sum 
-#Array - easy 
+#Leetcode - 1 
 
 def twoSum(self, nums, target):
   hashmap = {}
