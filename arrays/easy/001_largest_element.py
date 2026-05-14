@@ -1,6 +1,6 @@
 #diyabangad
 #Array - easy - 1 
-#Largest Element in an Array
+#Largest Element in an array
 #GFG 
 def largest(arr, n):
     maxi = arr[0]
