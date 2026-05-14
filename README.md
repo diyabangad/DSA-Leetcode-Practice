@@ -1,5 +1,5 @@
 # DSA Practice — Diya Bangad
-Following **Striver's A2Z DSA Sheet** · Target: 350+ problems before placements
+Following **Striver's A2Z DSA Sheet** · Target: 350+ problems before placements.
 
 ![Progress](https://img.shields.io/badge/Progress-15%20%2F%20350-orange?style=flat)
 ![Sheet](https://img.shields.io/badge/Sheet-Striver's%20A2Z-blue?style=flat)
